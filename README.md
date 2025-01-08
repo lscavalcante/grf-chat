@@ -34,7 +34,7 @@ Welcome to the **GRF Chat**, a modern, real-time chat application built using **
 
 ![Chat Interface Screenshot](./Screenshot%202025-01-08%20at%2016.37.56.png)
 
-#### Settings Page
+#### Login Page
 
 ![Settings Screenshot](./Screenshot%202025-01-08%20at%2016.37.28.png)
 
@@ -76,8 +76,6 @@ cd web.chat
 
 # Install dependencies
 npm install
-
-https://github.com/user-attachments/assets/1a63ef96-0902-4770-baef-13fed68dbf3d
 
 # Start the development server
 npm run dev
