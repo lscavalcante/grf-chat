@@ -25,11 +25,6 @@ Welcome to the **GRF Chat**, a modern, real-time chat application built using **
 - **Django Rest Framework**: Web framework for building the REST API.
 - **Webhooks**: Event-driven mechanism for handling real-time communication.
 
----
-
-## 📂 Project Structure
-
----
 
 ## 🎬 Demo
 
@@ -82,7 +77,15 @@ cd web.chat
 # Install dependencies
 npm install
 
+https://github.com/user-attachments/assets/1a63ef96-0902-4770-baef-13fed68dbf3d
+
+
+
 # Start the development server
+
+https://github.com/user-attachments/assets/a7ef423e-ab32-4b36-9bc5-e579285e9e57
+
+
 npm run dev
 ```
 
